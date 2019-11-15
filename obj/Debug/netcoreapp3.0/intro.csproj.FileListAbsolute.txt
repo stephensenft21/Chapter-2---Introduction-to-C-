@@ -1,0 +1,11 @@
+C:\Users\NSS31\workspaceC-35\intro\bin\Debug\netcoreapp3.0\intro.exe
+C:\Users\NSS31\workspaceC-35\intro\bin\Debug\netcoreapp3.0\intro.deps.json
+C:\Users\NSS31\workspaceC-35\intro\bin\Debug\netcoreapp3.0\intro.runtimeconfig.json
+C:\Users\NSS31\workspaceC-35\intro\bin\Debug\netcoreapp3.0\intro.runtimeconfig.dev.json
+C:\Users\NSS31\workspaceC-35\intro\bin\Debug\netcoreapp3.0\intro.dll
+C:\Users\NSS31\workspaceC-35\intro\bin\Debug\netcoreapp3.0\intro.pdb
+C:\Users\NSS31\workspaceC-35\intro\obj\Debug\netcoreapp3.0\intro.csprojAssemblyReference.cache
+C:\Users\NSS31\workspaceC-35\intro\obj\Debug\netcoreapp3.0\intro.AssemblyInfoInputs.cache
+C:\Users\NSS31\workspaceC-35\intro\obj\Debug\netcoreapp3.0\intro.AssemblyInfo.cs
+C:\Users\NSS31\workspaceC-35\intro\obj\Debug\netcoreapp3.0\intro.dll
+C:\Users\NSS31\workspaceC-35\intro\obj\Debug\netcoreapp3.0\intro.pdb
